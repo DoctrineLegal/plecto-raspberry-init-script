@@ -92,7 +92,7 @@ chromium-browser \
 --disable-extensions \
 --start-fullscreen \
 --no-default-browser-check \
-https://tv.plecto.com
+https://metabase.doctrine.fr/public/dashboard/d2e4e860-cfa8-4e9d-866b-a588575e567f\#refresh=60&theme=night
 EOF
 
   chmod +x $GECKOBOARD_KIOSK_FILE
